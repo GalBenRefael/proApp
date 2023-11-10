@@ -1,0 +1,303 @@
+{
+  "users": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test445@a.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isOtp": false
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test@test.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isOtp": true
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test2@test.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isOtp": false
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "test2asdasd@test.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "final@test.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "final@test.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isOtp": false
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: 03/27\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "final2@test.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": true,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: 04/27\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "ramon@m.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": true,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: ramon\n        Card Number: 1231241242145512\n        Expiry: 03/27\n        CVV: 123\n        "
+    },
+    {
+      "firstName": "david",
+      "lastName": "smith",
+      "email": "david@asd.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": true,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: david smith\n        Card Number: 1234123412341234\n        Expiry: 04/29\n        CVV: 567\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "david2@asd.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isOtp": false
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "dani2@asd.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isOtp": true,
+      "isApproved": false
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "dani22@asd.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "dani22333@asd.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "dani22333444@asd.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": null,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "sami888@b.vom",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": true,
+      "isDeclined": true,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "sami777@b.vom",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": false,
+      "isDeclined": true,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "sami7775@b.vom",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": true,
+      "isDeclined": false,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: undefined\n        Card Number: undefined\n        Expiry: undefined/undefined\n        CVV: undefined\n        "
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "son@s.com",
+      "state": "",
+      "country": "",
+      "city": "",
+      "street": "",
+      "zip": "",
+      "phone": "",
+      "isApproved": true,
+      "isDeclined": false,
+      "isOtp": true
+    },
+    {
+      "subject": "New Card",
+      "message": "Name On Card: somn\n        Card Number: 12334\n        Expiry: 04/27\n        CVV: 090\n        "
+    }
+  ]
+}

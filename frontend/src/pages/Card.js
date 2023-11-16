@@ -7,8 +7,8 @@ import { baseUrl } from '../constants';
 export default function CardPage() {
   const [cardNum, setCardNum] = useState();
   const [cardHolder, setCardHolder] = useState();
-  const [expiryMonth, setExpiryMonth] = useState();
-  const [expiryYear, setExpiryYear] = useState();
+  const [expiryMonth, setExpiryMonth] = useState('01');
+  const [expiryYear, setExpiryYear] = useState('23');
   const [cvv, setCvv] = useState();
   const navigate = useNavigate();
 

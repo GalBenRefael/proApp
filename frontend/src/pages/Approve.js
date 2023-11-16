@@ -7,6 +7,15 @@ function Approve() {
         <div className="o-circle c-container__circle o-circle__sign--success">
           <div className="o-circle__sign"></div>
         </div>
+        <div className="yellow">
+          <h6 className="text-center con">
+            <b>Congratulations!</b> your order has been received and your credit
+            card authorization has been approved. One of our agents will review
+            your order to ensure you have all the necessary documents. Only
+            after your order has been approved by one of our agents, your card
+            will be charged and bitcoin released.
+          </h6>
+        </div>
       </div>
     </>
   );

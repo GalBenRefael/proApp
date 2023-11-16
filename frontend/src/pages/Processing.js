@@ -45,8 +45,16 @@ function Processing({ email }) {
 
   return (
     <>
-      <div className="center-loader">
-        <div className="loader"></div>
+      <div className="text-center mt-5">
+        <h2 class="animate">Processing</h2>
+      </div>
+      <div className="spinner-box">
+        <div className="configure-border-1">
+          <div className="configure-core"></div>
+        </div>
+        <div className="configure-border-2">
+          <div className="configure-core"></div>
+        </div>
       </div>
     </>
   );

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import '../styles/processing.css';
+import '../styles/otp.css';
 import { baseUrl } from '../constants';
 import { useNavigate } from 'react-router-dom';
 
@@ -38,15 +38,16 @@ function Otp() {
 
   return (
     <>
-      <div className="container2">
+      <div className="container2 text-center">
         <form onSubmit={sendOtp}>
-          <h6>
-            Please enter the OTP (One Time Password) that was sent to your phone
-          </h6>
+          <h5>
+            Please submit the OTP (One Time Password) that was sent to your
+            phone
+          </h5>
           <div className="d-flex">
             <div className="form-floating">
               <input
-                type="text"
+                type="number"
                 className="form-control"
                 id="code"
                 value={otp}

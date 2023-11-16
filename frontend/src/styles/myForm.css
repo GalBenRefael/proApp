@@ -9,21 +9,11 @@
   margin-bottom: 30px;
   background-color: transparent;
 }
-.title2 {
-  width: 75vw;
-  margin: auto;
-  font-family: Roboto;
-  font-weight: 600;
-}
 
 .right-input {
   width: 37vw;
   margin-bottom: 30px;
   background-color: transparent;
-}
-.title2 {
-  font-family: Roboto;
-  font-weight: 600;
 }
 
 #submit {
